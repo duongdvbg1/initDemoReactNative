@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.61.4] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/2b9351da02a2106e6b550d4abbbc719c/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/598e887cb2a2b2864811b71d0450ad8e/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/f00e91a77a0182bf96d79a70a134de5d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/101d2a1a0a15611ed42c8bb136e7c206/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/0a584290bed652ce7fb43fb75339179b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/744909925a1cd06747e481d032308c29/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/0ad2bf2b3d8a4f7b338a08a50141c6fc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/377ef0390ea5ca402db93c777db37ee0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/dc5e83001dae44502b86138123c972fe/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/dbd7ac6be53e2c24bb12fe42f58f3ce4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/6a20075039615417e36754885609020b/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/b2df7e46ae511931966e739be28c8138/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/3835f1ab59a7531c6a735c1c5d11310e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/8083b8a861b61e49e681268bf466613d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/522e106ffde566acb34611f04840590a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/330488bfd3993f9e1490c2adbcb520ff/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/dee78312927d78711d109b4852898d3d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/0c8e152c57cad7afbdf8d8d3d6b721b6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/a7604ecb5db108f6203290a897244623/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/fcbb83bde5015d22a5ce5699a0eb36fd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/650225616e14b1ba54273ce9d0c8fdaf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/a98fa4990447c51e538922352d6b683c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/80eb75edb6d3e2a5505cfc0698517046/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/e9af2c5eb64caa6580c27f68ae711580/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/49a126429b82e000a4c1888a963541d8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/d13550f12e47bb82c692febcae2953d9/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/238e669d57fbf3070fe865dc134752e3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/e31555b530fbed9fa9c0af48c88540bf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/f4218cc1495455ca70b8fa2d3aa14756/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/3f13b144182892dd25b404e73dcdb0a5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/6d64d4888e7b317940df9b501983aff3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/901c066b60bf1881ccd48c8dd20582e8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/223e5458f14949746e1c5b09063ce3a2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/d02e87c2135defe8335c8a18f1b8fe9c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/da5b8e55d880286bb57777eb043af91a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/77b62a05f814475998b7eb358eac39ab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/84750925f927c250ff338abcff3dcc01/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.4] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/2b9351da02a2106e6b550d4abbbc719c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.4] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/2b9351da02a2106e6b550d4abbbc719c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/6a20075039615417e36754885609020b/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/6a20075039615417e36754885609020b/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/49a126429b82e000a4c1888a963541d8/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/49a126429b82e000a4c1888a963541d8/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/d13550f12e47bb82c692febcae2953d9/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/d13550f12e47bb82c692febcae2953d9/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/49a126429b82e000a4c1888a963541d8/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.initdemo.MainActivity
+ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.61.4] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/2b9351da02a2106e6b550d4abbbc719c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.4] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/2b9351da02a2106e6b550d4abbbc719c/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/598e887cb2a2b2864811b71d0450ad8e/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/598e887cb2a2b2864811b71d0450ad8e/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/f00e91a77a0182bf96d79a70a134de5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/f00e91a77a0182bf96d79a70a134de5d/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/101d2a1a0a15611ed42c8bb136e7c206/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/101d2a1a0a15611ed42c8bb136e7c206/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/0a584290bed652ce7fb43fb75339179b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/0a584290bed652ce7fb43fb75339179b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/744909925a1cd06747e481d032308c29/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/744909925a1cd06747e481d032308c29/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/0ad2bf2b3d8a4f7b338a08a50141c6fc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/0ad2bf2b3d8a4f7b338a08a50141c6fc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/377ef0390ea5ca402db93c777db37ee0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/377ef0390ea5ca402db93c777db37ee0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/dc5e83001dae44502b86138123c972fe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/dc5e83001dae44502b86138123c972fe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/dbd7ac6be53e2c24bb12fe42f58f3ce4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/dbd7ac6be53e2c24bb12fe42f58f3ce4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/6a20075039615417e36754885609020b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/6a20075039615417e36754885609020b/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/b2df7e46ae511931966e739be28c8138/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/b2df7e46ae511931966e739be28c8138/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/3835f1ab59a7531c6a735c1c5d11310e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/3835f1ab59a7531c6a735c1c5d11310e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/8083b8a861b61e49e681268bf466613d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/8083b8a861b61e49e681268bf466613d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/522e106ffde566acb34611f04840590a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/522e106ffde566acb34611f04840590a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/330488bfd3993f9e1490c2adbcb520ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/330488bfd3993f9e1490c2adbcb520ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/dee78312927d78711d109b4852898d3d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/dee78312927d78711d109b4852898d3d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/0c8e152c57cad7afbdf8d8d3d6b721b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/0c8e152c57cad7afbdf8d8d3d6b721b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/a7604ecb5db108f6203290a897244623/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/a7604ecb5db108f6203290a897244623/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/fcbb83bde5015d22a5ce5699a0eb36fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/fcbb83bde5015d22a5ce5699a0eb36fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/650225616e14b1ba54273ce9d0c8fdaf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/650225616e14b1ba54273ce9d0c8fdaf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/a98fa4990447c51e538922352d6b683c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/a98fa4990447c51e538922352d6b683c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/80eb75edb6d3e2a5505cfc0698517046/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/80eb75edb6d3e2a5505cfc0698517046/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/e9af2c5eb64caa6580c27f68ae711580/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/e9af2c5eb64caa6580c27f68ae711580/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/49a126429b82e000a4c1888a963541d8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/49a126429b82e000a4c1888a963541d8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/d13550f12e47bb82c692febcae2953d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/d13550f12e47bb82c692febcae2953d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/238e669d57fbf3070fe865dc134752e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/238e669d57fbf3070fe865dc134752e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/e31555b530fbed9fa9c0af48c88540bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/e31555b530fbed9fa9c0af48c88540bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/f4218cc1495455ca70b8fa2d3aa14756/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/f4218cc1495455ca70b8fa2d3aa14756/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/3f13b144182892dd25b404e73dcdb0a5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/3f13b144182892dd25b404e73dcdb0a5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/6d64d4888e7b317940df9b501983aff3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/6d64d4888e7b317940df9b501983aff3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/901c066b60bf1881ccd48c8dd20582e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/901c066b60bf1881ccd48c8dd20582e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/223e5458f14949746e1c5b09063ce3a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/223e5458f14949746e1c5b09063ce3a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/d02e87c2135defe8335c8a18f1b8fe9c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/d02e87c2135defe8335c8a18f1b8fe9c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/da5b8e55d880286bb57777eb043af91a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/da5b8e55d880286bb57777eb043af91a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/77b62a05f814475998b7eb358eac39ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/77b62a05f814475998b7eb358eac39ab/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/84750925f927c250ff338abcff3dcc01/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/84750925f927c250ff338abcff3dcc01/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/debug/AndroidManifest.xml:5:22-75
