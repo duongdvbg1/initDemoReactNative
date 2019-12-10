@@ -5,6 +5,8 @@ INJECTED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app
 INJECTED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:1:1-26:12
 MERGED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] /home/duong-pc/Desktop/ReactNative/initDemoReactNative/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /home/duong-pc/Desktop/ReactNative/initDemoReactNative/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.61.4] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/2b9351da02a2106e6b550d4abbbc719c/AndroidManifest.xml:2:1-13:12
 MERGED from [org.webkit:android-jsc:r245459] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/598e887cb2a2b2864811b71d0450ad8e/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/f00e91a77a0182bf96d79a70a134de5d/AndroidManifest.xml:17:1-22:12
@@ -132,6 +134,10 @@ uses-sdk
 INJECTED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /home/duong-pc/Desktop/ReactNative/initDemoReactNative/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/duong-pc/Desktop/ReactNative/initDemoReactNative/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/duong-pc/Desktop/ReactNative/initDemoReactNative/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/duong-pc/Desktop/ReactNative/initDemoReactNative/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.61.4] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/2b9351da02a2106e6b550d4abbbc719c/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.61.4] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/2b9351da02a2106e6b550d4abbbc719c/AndroidManifest.xml:7:5-9:41
 MERGED from [org.webkit:android-jsc:r245459] /home/duong-pc/.gradle/caches/transforms-2/files-2.1/598e887cb2a2b2864811b71d0450ad8e/AndroidManifest.xml:7:5-9:41

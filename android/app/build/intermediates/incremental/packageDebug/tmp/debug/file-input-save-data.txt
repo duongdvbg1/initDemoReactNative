@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Dec 05 10:18:31 ICT 2019
+#Thu Dec 05 14:46:00 ICT 2019
 56.path=lib/armeabi-v7a/libreactnativejni.so
 5.base=/home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 42.base=/home/duong-pc/Desktop/ReactNative/initDemoReactNative/android/app/build/intermediates/transforms/mergeJniLibs/debug/0

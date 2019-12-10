@@ -6,38 +6,20 @@
  * @flow
  */
 
-import React from 'react';
-import {
-	SafeAreaView,
-	StyleSheet,
-	ScrollView,
-	View,
-	Text,
-	StatusBar,
-	Image
-} from 'react-native';
+import {createAppContainer} from 'react-navigation';
+import {createStackNavigator} from 'react-navigation-stack';
 
-import {
-	Colors,
-} from 'react-native/Libraries/NewAppScreen';
-import Header from './src/components/Header';
-import Content from './src/components/Content';
+import Main from './src/components/Main';
+import ChangeInfo from './src/components/ChangeInfo';
+import Authentication from './src/components/Authentication';
+import OrderHistory from './src/components/OrderHistory';
 
-const App = () => {
-	return (
-		<>
-			<View>
-				<Header name='Welcome To React Native'/>
-				<Content />
-			</View>
-		</>
-	);
-};
+const MainNavigator = createStackNavigator({
+	Main: {screen: Main},
+	ChangeInfo: {screen: ChangeInfo},
+	Authentication: {screen: Authentication},
+	OrderHistory: {screen: OrderHistory},
+  });
 
-const styles = StyleSheet.create({
-	scrollView: {
-		backgroundColor: Colors.lighter,
-	},
-});
-
+  const App = createAppContainer(MainNavigator);
 export default App;
